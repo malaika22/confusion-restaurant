@@ -24,6 +24,7 @@
     "lite-server": "^2.3.0",
     "onchange": "^3.3.0",
     "parallelshell": "^3.0.1",
+    "rimraf": "^2.6.2",
     "uglifyjs": "^2.4.11",
     "usemin-cli": "^0.5.1"
   },
@@ -31,6 +32,7 @@
     "bootstrap": "^4.5.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
+    "imagemin": "^7.0.1",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
     "popper.js": "^1.12.9"
